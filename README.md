@@ -4,4 +4,6 @@ git clone https://github.com/prabin4456/cupp999.git
 
 ls
 
-python 
+cd cupp999
+
+ls
