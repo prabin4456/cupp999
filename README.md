@@ -7,3 +7,9 @@ ls
 cd cupp999
 
 ls
+
+python cupp.py
+
+python cupp.py -i
+
+mv name.txt /sdcard
